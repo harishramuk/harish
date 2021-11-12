@@ -25,7 +25,7 @@ My personal repository
 - ⚡ Fun fact **I think I am funny**
 
 
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
